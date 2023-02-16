@@ -8,7 +8,7 @@ if (number == number2 * number2)
 {
     Console.WriteLine("Да");
 }
-if (number != number2 * number2)
+else
 {
     Console.WriteLine("Нет");
 }
